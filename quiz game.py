@@ -45,3 +45,4 @@ else:
     print("Incorrect")
 
 print("Congratulations!! Your total score is " + str(points))
+print("You got " + str((points)/4 * 100) + "%.")
