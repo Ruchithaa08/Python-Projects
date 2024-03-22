@@ -1,3 +1,5 @@
+#Ruchitha008
+#March2024
 points = 0
 print("WELCOME TO THE QUIZ!")
 playing = input("Do you want to play?")
